@@ -24,9 +24,6 @@ Project aims to create a simple To-Do App.
 ## Expected Outcome
 
 ![Project Snapshot](./project_1.gif)
-![Project Snapshot](./project_2.gif)
-![Project Snapshot](./project_3.gif)
-![Project Snapshot](./project_4.gif)
 
 **⚠ Images are given as examples. You can use any design you want.**
 
